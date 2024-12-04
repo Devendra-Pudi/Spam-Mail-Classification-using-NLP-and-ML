@@ -1,7 +1,5 @@
-nltk
 numpy
 pandas
-pickle
 scikit-learn
 scipy
 streamlit
