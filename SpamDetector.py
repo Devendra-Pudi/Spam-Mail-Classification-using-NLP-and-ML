@@ -20,6 +20,6 @@ def main():
                     st.success("This is Not a Spam Email")
                 else:
                     st.error("This is a Spam Email")
-        else:
-            st.error("Please Enter an Email to Classify")
+    else:
+        st.error("Please Enter an Email to Classify")
 main()
