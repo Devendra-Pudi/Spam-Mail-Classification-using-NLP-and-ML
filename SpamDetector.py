@@ -5,7 +5,7 @@ model = pickle.load(open('spam.pkl','rb'))
 cv = pickle.load(open('vec.pkl','rb'))
 
 def main():
-    st.title('Spam Email Classification App')
+    st.title('Spam Email Classifier')
     st.write("Check the email is Spam Or Not Spam")
     st.subheader('Check For Spam')
     text = st.text_area("Enter an email to classify" ,height=150)
