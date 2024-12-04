@@ -1,7 +1,7 @@
-nltk==3.9.1
-numpy==2.1.0
-pandas==2.2.2
+nltk
+numpy
+pandas
 pickle
-scikit-learn==1.5.1
-scipy==1.14.1
-streamlit==1.38.0
+scikit-learn
+scipy
+streamlit
