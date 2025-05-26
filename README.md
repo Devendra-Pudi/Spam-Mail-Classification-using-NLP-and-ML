@@ -3,6 +3,13 @@
 
 This project implements a spam mail classifier using Natural Language Processing (NLP) techniques and Machine Learning (ML) algorithms. It processes email data to distinguish between spam and non-spam messages.
 
+## 🔗 Project Link
+
+GitHub Repository: [Spam Mail Classifier](https://github.com/Devendra-Pudi/Spam-Mail-Classification-using-NLP-and-ML)
+
+Try My Project: [Spam Mail Classifier](https://spam-mail-classifier-project-by-devendra.streamlit.app/).
+
+---
 ## Features
 
 - **Data Preprocessing**: Cleaning and preparing the email text data.
